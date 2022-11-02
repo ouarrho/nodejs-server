@@ -1,0 +1,19 @@
+{
+    "name": "hello",
+    "version": "1.0.0",
+    "description": "hello node :)",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index",
+        "dev": "nodemon index"
+    },
+    "author": "Ouarrho",
+    "license": "MIT",
+    "dependencies": {
+        "firebase": "^9.13.0",
+        "uuid": "^9.0.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    }
+}
